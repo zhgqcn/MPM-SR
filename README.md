@@ -1,1 +1,1 @@
-# personnel repository
+# personal repository
