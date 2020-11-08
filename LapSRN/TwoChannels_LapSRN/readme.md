@@ -1,4 +1,6 @@
-# 双通道`LapSRN`网络
+# 我的目前最好的模型，为'V1.0'版本，2020/11/08
+
+## 双通道`LapSRN`网络
 
 ![Snipaste_2020-11-02_00-03-15](https://tvax2.sinaimg.cn/large/005tpOh1ly1gka4afillrj30y60ks0v5.jpg)
 
