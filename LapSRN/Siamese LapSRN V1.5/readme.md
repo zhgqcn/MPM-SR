@@ -1,4 +1,6 @@
 # 在原来网络基础上，利用了新的数据集进行训练
+> [上一个版本TwoChannels_LapSRN](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/TwoChannels_LapSRN)
+
 **新的数据集是经过挑选的，即剔除不好的图，只选择好的**
 - 挑选28张，切成448张作为训练集
 - 挑选2张，切成32张作为训练集
