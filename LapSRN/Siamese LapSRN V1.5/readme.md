@@ -43,3 +43,6 @@ if __name__ == "__main__":
             print(path)
             os.remove(path)
 ```
+
+# 训练结果
+![Snipaste_2020-11-12_18-23-51](https://tva3.sinaimg.cn/large/005tpOh1ly1gkmkar401zj30or0f976s.jpg)
