@@ -1,3 +1,14 @@
+# 建立仓库b版本过程说明
+[Experiment1.0（即LapSRN仓库）](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN)  
+
+      ⬇  
+      
+[Experiment2.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment2.0)
+
+
+
+
+
 # Task 
 1. 控制单一变量1118
 2. 只用其中一部分模型
