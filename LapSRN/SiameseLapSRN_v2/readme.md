@@ -1,4 +1,5 @@
 # 该版本由SiameseLapSRN_v1.0版本改进而来
+- [SiameseLapSRN_v1.0](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/TwoChannels_LapSRN)
 - 主要由单通道改进为了三通道，改进理由：[通过反卷积可视化可知三通道反卷积效果更好](https://github.com/zhgqcn/GraduationProject/blob/master/notes/report_20201121.md)
 
 # 修改为三通道
