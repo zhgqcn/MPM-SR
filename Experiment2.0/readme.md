@@ -7,7 +7,7 @@ LapSRN基于[LapSRN_HRW_Adagrad](https://github.com/zhgqcn/GraduationProject/tre
 - **可以利用加载预训练模型继续训练**
 - **使用了全部数据集**
 
-SiameseLapSRN_2.4:
+SiameseLapSRN_2.4，该版本有[LapSRN_v2.0修改而来](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/SiameseLapSRN_v2):
 - **主要修改了网络框架加入了`1*1卷积`**
 - **使用了全部数据集**
 ![Snipaste_2020-11-29_22-54-24](https://tva1.sinaimg.cn/large/005tpOh1ly1gl71lmj8eyj310x0jpq4p.jpg)
