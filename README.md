@@ -1,7 +1,7 @@
-# 建立仓库b版本过程说明
+# 建立仓库版本过程说明
 [Experiment1.0（即LapSRN仓库）](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN)  
 
-      ⬇  
+ ⬇  
       
 [Experiment2.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment2.0)
 
