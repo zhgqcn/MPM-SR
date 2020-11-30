@@ -1,12 +1,14 @@
 # 建立仓库版本过程说明
-[Experiment1.0（即LapSRN仓库）](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN)  
+[Experiment1.0（即LapSRN仓库）](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN)  ➡  [Experiment2.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment2.0)
+# 其他仓库
+- [ResultCompare](https://github.com/zhgqcn/GraduationProject/tree/master/ResultCompare) 用于存放超分结果
+- [notes](https://github.com/zhgqcn/GraduationProject/tree/master/notes)  用于存放笔记
+- [Pretreatment](https://github.com/zhgqcn/GraduationProject/tree/master/Pretreatment)
+# 模型更替过程
+## LapSRN版本更替
+[LapSRN_v1.0](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/LapSRN_HRW) **→**  [LapSRN_v1.1](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/LapSRN_HRW_Adagrad)
 
- ⬇  
-      
-[Experiment2.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment2.0)
-
-
-
+## SiameseLapSRN版本更替
 
 
 # Task 
