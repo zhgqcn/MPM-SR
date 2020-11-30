@@ -1,7 +1,7 @@
 # 建立仓库版本过程说明
 [Experiment1.0（即LapSRN仓库）](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN)  ➡  [Experiment2.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment2.0)
 # 其他仓库
-- [ResultCompare](https://github.com/zhgqcn/GraduationProject/tree/master/ResultCompare) 用于存放超分结果
+- [ProcessVersion](https://github.com/zhgqcn/GraduationProject/tree/master/ProcessVersion) 用于存放学习过程中的其他尝试
 - [notes](https://github.com/zhgqcn/GraduationProject/tree/master/notes)  用于存放笔记
 - [Pretreatment](https://github.com/zhgqcn/GraduationProject/tree/master/Pretreatment) 用于存放预处理和后处理小程序
 # 模型更替过程
