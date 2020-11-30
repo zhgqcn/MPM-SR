@@ -1,4 +1,4 @@
-## 该repo代码由LapSRN的改进而来
+## 该repo代码由LapSRN的仓库的改进而来，如下
 
 因为仓库名修改比较麻烦，**Experiment1** 即为 [LapSRN仓库](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN)
 
