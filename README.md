@@ -3,7 +3,7 @@
 # 其他仓库
 - [ResultCompare](https://github.com/zhgqcn/GraduationProject/tree/master/ResultCompare) 用于存放超分结果
 - [notes](https://github.com/zhgqcn/GraduationProject/tree/master/notes)  用于存放笔记
-- [Pretreatment](https://github.com/zhgqcn/GraduationProject/tree/master/Pretreatment)
+- [Pretreatment](https://github.com/zhgqcn/GraduationProject/tree/master/Pretreatment) 用于存放预处理和后处理小程序
 # 模型更替过程
 ## LapSRN版本更替
 [LapSRN_v1.0](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/LapSRN_HRW) **→**  [LapSRN_v1.1](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/LapSRN_HRW_Adagrad)
