@@ -9,7 +9,12 @@
 ## LapSRN版本更替
 [LapSRN_v1.0](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/LapSRN_HRW) **→**
 [LapSRN_v1.1](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/LapSRN_HRW_Adagrad) **→**
-[⭐LapSRN_v2.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment2.0/LapSRN_v2.0)
+[⭐LapSRN_v2.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment2.0/LapSRN_v2.0) **→**
+[LapSRN_v3.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment3.0/LapSRN_v3) **→**
+[⭐LapSRN_v4.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment3.0/LapSRN_v4) **→**
+[LapSRN_v5.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment3.0/LapSRN_v5)
+
+![Snipaste_2020-12-27_19-53-44](https://tvax2.sinaimg.cn/large/005tpOh1ly1gm2nscxux1j30lp0dojsn.jpg)
 
 ## SiameseLapSRN版本更替
 [SiameseLapSRN_v1.0](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/TwoChannels_LapSRN) **→**
@@ -23,9 +28,4 @@
     
        
           
-          
-# Task 
-1. 2020超分辨综述阅读
-2. 原始代码修改（模块化）
-3. Loss尝试（charLoss + SSIM_Loss)
-4. 网络完整可视化（方便后续修改）
+
