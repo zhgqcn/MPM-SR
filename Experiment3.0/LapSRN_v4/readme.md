@@ -12,3 +12,15 @@
 ```python
   return image_loss +  0.5 * ssim_loss
 ```
+
+## 模块后的训练于继续训练
+1. 选择训练通道
+2. 加入预训练模型`--resume`就可以继续训练
+```
+# g channel
+## first train
+python 'train.py' --channel 'g' --dataset '../DataSet_test/' --nEpochs 100 --cuda
+## continue train
+python "train.py" --channel 'g' --dataset "../DataSet_test/" --nEpochs 200 --cuda \
+--resume './LapSRN_model_epoch_g_60.pth'
+```
