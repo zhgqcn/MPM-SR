@@ -3,7 +3,7 @@
 因为仓库名修改比较麻烦，**Experiment1** 即为 [LapSRN仓库](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN)
 
 # 主要修改
-## LapSRN基于[LapSRN_HRW_Adagrad](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/LapSRN_HRW_Adagrad),主要实现了：
+## LapSRN基于[LapSRN_HRW_Adagrad(LapSRN_v1.1)](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/LapSRN_HRW_Adagrad),主要实现了：
 - **可以利用加载预训练模型继续训练**
 - **使用了全部数据集**
 
