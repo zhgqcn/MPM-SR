@@ -11,7 +11,7 @@
 
 - 测试效果 
 ![Snipaste_2020-11-05_09-06-26](https://tva2.sinaimg.cn/large/005tpOh1ly1gke0uht635j30uj0j3grx.jpg)
-
+https://tva2.sinaimg.cn/large/005tpOh1ly1gke0uht635j30uj0j3grx.jpg
 - X4结果图
 下载 HRW.tif
 
