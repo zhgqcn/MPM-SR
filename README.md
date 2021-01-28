@@ -14,7 +14,7 @@
 [⭐LapSRN_v4.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment3.0/LapSRN_v4) **→**
 [LapSRN_v5.0](https://github.com/zhgqcn/GraduationProject/tree/master/Experiment3.0/LapSRN_v5)
 
-![Snipaste_2020-12-27_19-53-44](https://tvax2.sinaimg.cn/large/005tpOh1ly1gm2nscxux1j30lp0dojsn.jpg)
+![16118035685417](https://tvax2.sinaimg.cn/large/005tpOh1ly1gn38lg8h33j30mj1004qa.jpg)
 
 ## SiameseLapSRN版本更替
 [SiameseLapSRN_v1.0](https://github.com/zhgqcn/GraduationProject/tree/master/LapSRN/TwoChannels_LapSRN) **→**
